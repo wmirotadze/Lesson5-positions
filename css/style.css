@@ -140,11 +140,32 @@ section{
 }
 .footer-div4{
 	display: inline-block;
-	vertical-align: top;
-	margin: 82px 138px;
+	vertical-align: middle;
+	margin: 82px 138px 0 217px;
+	text-align: right;
 }
 .footer-title{
 	font-family: poppins;
-	font-size: 24;
+	font-size: 24px;
 	font-weight: 600;
+	margin-bottom: 15px;
+}
+.payment{
+	vertical-align: middle;
+	text-align: right
+}
+.footer-link{
+	font-family: poppins;
+	font-size: 16px;
+	color:#7B7B7B;
+}
+.copyright{
+	margin: 45px 142px 0 0;
+	text-align: right;
+}
+.footer a{
+	font-family: poppins;
+	font-size: 16px;
+	color:#7B7B7B;
+	line-height: 36px;
 }
